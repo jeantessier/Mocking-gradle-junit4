@@ -10,8 +10,12 @@ and [Mockito](https://easymock.org/).
 Throughout, I use the terminology defined by Gerard Meszaros in his book
 [xUnit Test Patterns](http://www.amazon.com/xUnit-Test-Patterns-Refactoring-Addison-Wesley/dp/0131495054/ref%3Dpd%5Fbbs%5Fsr%5F1/104-7143783-6750325?ie%3DUTF8&s%3Dbooks&qid%3D1188541102&sr%3D8-1).
 
-All example were tested with JUnit 4, jMock 2.12, EasyMock 5.2.0, and Mockito
-5.7.0 using Java 21.
+All example were tested with JUnit 4, jMock 2.13, EasyMock 5.2.0, and Mockito
+5.12.0 using Java 21.
+
+Alternative versions:
+JUnit 4,
+[JUnit 5](https://github.com/jeantessier/Mocking-gradle-junit5/blob/main/README.md)
 
 #### DISCLAIMER (2008)
 
